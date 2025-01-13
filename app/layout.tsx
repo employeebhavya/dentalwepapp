@@ -12,7 +12,7 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "Raj Healthcare Patient Management System - Patient Tracker",
+  title: "Dental Patient Management System - Patient Tracker",
   description:
     "A patient management system for healthcare providers to manage patient records, appointments, and billing.",
 };
